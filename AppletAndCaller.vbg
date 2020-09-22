@@ -1,0 +1,3 @@
+VBGROUP 5.0
+Project=D3DConfig.vbp
+StartupProject=D3DConfigTest.vbp
